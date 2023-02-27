@@ -1,0 +1,37 @@
+.app {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+#lcol {
+  background-color: #3F5E6E;
+}
+
+.nombre {
+  font-weight: bold;
+  font-size: 4em;
+}
+
+.nombre span {
+  color: #3F5E6E;
+  display: block;
+}
+
+#lcol h3, #lcol p, #lcol li  {
+  font-family: sans-serif;
+  color: aliceblue;
+}
+
+.rcol .contacto {
+  font-style: italic;
+}
+
+#lcol ul, #lcol p, #lcol h3, .rcol .contacto {
+  list-style-type: none;
+  text-align: left;
+}
+
+.rcol .tab .fecha {
+  font-size: 20px ;
+  font-weight: 500;
+}
