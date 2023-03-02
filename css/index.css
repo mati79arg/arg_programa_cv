@@ -41,17 +41,17 @@ a {
   color: inherit;
 }
 
-.btn {
-  background-color: aqua;
+.rcol ul .btn {
+  background-color: #3F5E6E; 
   font-size: 12px;
   font-weight: 500;
   text-transform:uppercase;
-  color: #000;
+  color: #fff;
   padding: 10 px 20 px;
-  border-radius: 5000px;
+  border-radius: 15px;
   transition: all 0.3s;
 }
 
 .btn:hover {
-  transform: scale(1.1);
+  transform: scale(1.15);
 }
